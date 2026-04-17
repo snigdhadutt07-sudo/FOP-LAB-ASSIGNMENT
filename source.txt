@@ -1,0 +1,4 @@
+Hello Students
+This is a file handling program in C
+We are copying this content to another file
+Good luck for exams
